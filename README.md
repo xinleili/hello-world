@@ -1,2 +1,5 @@
 # hello-world
-learn to use github
+
+hi humans,
+i'm xinlei. i love playing piano!
+
